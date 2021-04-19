@@ -1,0 +1,29 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{727A2C2F-4FC5-49CC-96FC-37787E1D727D}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="exercicio3/Program.cs" Line="23" Column="14" />
+      <File FileName="exercicio3/ClassA.cs" Line="10" Column="12" />
+      <File FileName="exercicio3/ClassB.cs" Line="30" Column="88" />
+      <File FileName="exercicio3/Interfaaces.cs" Line="6" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exercicio3" expanded="True" selected="True">
+            <Node name="exercicio3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exercicio3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

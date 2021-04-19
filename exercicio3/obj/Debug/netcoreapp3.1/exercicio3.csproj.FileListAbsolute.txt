@@ -1,0 +1,12 @@
+/Users/grimripper/Projects/exercicio3/exercicio3/bin/Debug/netcoreapp3.1/exercicio3.deps.json
+/Users/grimripper/Projects/exercicio3/exercicio3/bin/Debug/netcoreapp3.1/exercicio3.runtimeconfig.json
+/Users/grimripper/Projects/exercicio3/exercicio3/bin/Debug/netcoreapp3.1/exercicio3.runtimeconfig.dev.json
+/Users/grimripper/Projects/exercicio3/exercicio3/bin/Debug/netcoreapp3.1/exercicio3.dll
+/Users/grimripper/Projects/exercicio3/exercicio3/bin/Debug/netcoreapp3.1/exercicio3.pdb
+/Users/grimripper/Projects/exercicio3/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.csprojAssemblyReference.cache
+/Users/grimripper/Projects/exercicio3/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.AssemblyInfoInputs.cache
+/Users/grimripper/Projects/exercicio3/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.AssemblyInfo.cs
+/Users/grimripper/Projects/exercicio3/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.csproj.CoreCompileInputs.cache
+/Users/grimripper/Projects/exercicio3/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.dll
+/Users/grimripper/Projects/exercicio3/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.pdb
+/Users/grimripper/Projects/exercicio3/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.genruntimeconfig.cache
